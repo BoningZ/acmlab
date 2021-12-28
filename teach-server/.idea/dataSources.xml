@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="webteach@202.194.14.120" uuid="12838267-d0f4-44c1-bc8c-8ec9f9cd4448">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://202.194.14.120:3306/webteach</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="acmlab@bj-cdb-koq9r5sw.sql.tencentcdb.com" uuid="f1d9eae5-9088-416b-85ac-e3cad245e464">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://bj-cdb-koq9r5sw.sql.tencentcdb.com:60263/acmlab</jdbc-url>
+    </data-source>
+  </component>
+</project>
