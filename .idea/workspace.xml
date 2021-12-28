@@ -1,5 +1,122 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="845b0e7f-fe01-4a18-9a26-5bc0eb06b348" name="默认的" comment="">
+      <change afterPath="$PROJECT_DIR$/teach-server/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach-server/.idea/dataSources/187ba754-ec43-4039-af30-e8acbfabed80.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach-server/.idea/dataSources/187ba754-ec43-4039-af30-e8acbfabed80/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach-server/.idea/dataSources/9fb2870c-6133-416e-9e51-acb0fd0eecc3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach-server/.idea/dataSources/9fb2870c-6133-416e-9e51-acb0fd0eecc3/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach-server/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach-server/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach-server/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach-server/.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach-server/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_12_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach-server/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_12_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach-server/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_12_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach-server/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_12_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach-server/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_12_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach-server/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_12_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach-server/.idea/libraries/Maven__com_sun_activation_jakarta_activation_1_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach-server/.idea/libraries/Maven__com_sun_istack_istack_commons_runtime_3_0_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach-server/.idea/libraries/Maven__com_zaxxer_HikariCP_4_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach-server/.idea/libraries/Maven__io_jsonwebtoken_jjwt_0_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach-server/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach-server/.idea/libraries/Maven__jakarta_persistence_jakarta_persistence_api_2_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach-server/.idea/libraries/Maven__jakarta_transaction_jakarta_transaction_api_1_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach-server/.idea/libraries/Maven__jakarta_validation_jakarta_validation_api_2_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach-server/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach-server/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach-server/.idea/libraries/Maven__javax_persistence_javax_persistence_api_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach-server/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach-server/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach-server/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach-server/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_14_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach-server/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_14_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach-server/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_46.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach-server/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_46.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach-server/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_46.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach-server/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach-server/.idea/libraries/Maven__org_dom4j_dom4j_2_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach-server/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_runtime_2_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach-server/.idea/libraries/Maven__org_glassfish_jaxb_txw2_2_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach-server/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_1_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach-server/.idea/libraries/Maven__org_hibernate_hibernate_core_5_4_32_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach-server/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_2_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach-server/.idea/libraries/Maven__org_javassist_javassist_3_27_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach-server/.idea/libraries/Maven__org_jboss_jandex_2_2_3_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach-server/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_4_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach-server/.idea/libraries/Maven__org_jboss_spec_javax_transaction_jboss_transaction_api_1_2_spec_1_1_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach-server/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach-server/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach-server/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach-server/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach-server/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach-server/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach-server/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_2_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach-server/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach-server/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach-server/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach-server/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_security_2_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach-server/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach-server/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_validation_2_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach-server/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach-server/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach-server/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_2_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach-server/.idea/libraries/Maven__org_springframework_data_spring_data_keyvalue_2_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach-server/.idea/libraries/Maven__org_springframework_data_spring_data_redis_2_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach-server/.idea/libraries/Maven__org_springframework_data_spring_data_relational_2_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach-server/.idea/libraries/Maven__org_springframework_security_spring_security_config_5_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach-server/.idea/libraries/Maven__org_springframework_security_spring_security_core_5_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach-server/.idea/libraries/Maven__org_springframework_security_spring_security_web_5_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach-server/.idea/libraries/Maven__org_springframework_session_spring_session_core_2_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach-server/.idea/libraries/Maven__org_springframework_session_spring_session_data_redis_2_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach-server/.idea/libraries/Maven__org_springframework_spring_aop_5_3_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach-server/.idea/libraries/Maven__org_springframework_spring_aspects_5_3_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach-server/.idea/libraries/Maven__org_springframework_spring_beans_5_3_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach-server/.idea/libraries/Maven__org_springframework_spring_context_5_3_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach-server/.idea/libraries/Maven__org_springframework_spring_context_support_5_3_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach-server/.idea/libraries/Maven__org_springframework_spring_core_5_3_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach-server/.idea/libraries/Maven__org_springframework_spring_expression_5_3_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach-server/.idea/libraries/Maven__org_springframework_spring_jcl_5_3_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach-server/.idea/libraries/Maven__org_springframework_spring_jdbc_5_3_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach-server/.idea/libraries/Maven__org_springframework_spring_orm_5_3_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach-server/.idea/libraries/Maven__org_springframework_spring_oxm_5_3_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach-server/.idea/libraries/Maven__org_springframework_spring_tx_5_3_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach-server/.idea/libraries/Maven__org_springframework_spring_web_5_3_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach-server/.idea/libraries/Maven__org_springframework_spring_webmvc_5_3_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach-server/.idea/libraries/Maven__org_yaml_snakeyaml_1_28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach-server/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach-server/src/main/resources/public/css/chunk-70a7f109.877f7aa5.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach-server/src/main/resources/public/js/about.f2939e43.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach-server/src/main/resources/public/js/about.f2939e43.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach-server/src/main/resources/public/js/app.1eb012a1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach-server/src/main/resources/public/js/app.1eb012a1.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach-server/src/main/resources/public/js/chunk-19adefe8.417068e8.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach-server/src/main/resources/public/js/chunk-19adefe8.417068e8.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach-server/src/main/resources/public/js/chunk-2d6b0ba4.a56c544b.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach-server/src/main/resources/public/js/chunk-2d6b0ba4.a56c544b.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach-server/src/main/resources/public/js/chunk-70a7f109.a70ac900.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach-server/src/main/resources/public/js/chunk-70a7f109.a70ac900.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach-server/src/main/resources/public/js/chunk-75bc064f.52d65e96.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach-server/src/main/resources/public/js/chunk-75bc064f.52d65e96.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach-server/src/main/resources/public/js/chunk-a6d9fd24.744ebf8b.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach-server/src/main/resources/public/js/chunk-a6d9fd24.744ebf8b.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach-server/src/main/resources/public/js/chunk-f1a24cfc.1646de23.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach-server/src/main/resources/public/js/chunk-f1a24cfc.1646de23.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach-server/src/main/resources/public/js/chunk-f85f33e6.cb725600.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach-server/src/main/resources/public/js/chunk-f85f33e6.cb725600.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach-server/src/main/resources/public/js/chunk-vendors.8ad6a325.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach-server/src/main/resources/public/js/chunk-vendors.8ad6a325.js.map" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/teach-server" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -7,7 +124,55 @@
       </MavenGeneralSettings>
     </option>
   </component>
+  <component name="ProjectId" id="22uZDWTzIAGV1qBh1wBWFScNRpe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="845b0e7f-fe01-4a18-9a26-5bc0eb06b348" name="默认的" comment="" />
+      <created>1640689318844</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1640689318844</updated>
+      <workItem from="1640689323475" duration="989000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="305" y="305" width="663" height="213" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1640689446726">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="305" y="305" width="663" height="213" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1536.824@0.0.1536.824" timestamp="1640689446726" />
   </component>
 </project>
